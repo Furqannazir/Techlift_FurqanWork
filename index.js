@@ -66,7 +66,8 @@ app.get('/conditionalimaging', (req, res) => {
   
 })
 
-
+//applying changes to understand the branch concept in Git so we create branch and push the new Changes 
+//brnach is for applying the sudden chnages Without impacting the main branch 
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
 })
